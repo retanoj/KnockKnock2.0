@@ -19,3 +19,15 @@
 *.exe
 *.out
 *.app
+
+# ignore folder
+Release
+Debug
+Backup
+ipch
+
+# ignore File
+KnockKnock_v0.92.zip
+knockknock.cfg
+*.suo
+*.sdf
